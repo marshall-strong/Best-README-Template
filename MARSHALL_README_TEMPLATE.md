@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `marshall-strong`, `repo_name`, `marshall-strong`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `marshall-strong`, `repo_name`, `marshall-strong`, `gmail`, `marshallstrong123`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Marshall Strong - [marshallstrong.com](https://marshallstrong.com/) - email@email_client.com
+Marshall Strong - [marshallstrong.com](https://marshallstrong.com/) - marshallstrong123@gmail.com
 
 Project Link: [https://github.com/marshall-strong/repo_name](https://github.com/marshall-strong/repo_name)
 
